@@ -1,6 +1,6 @@
 # Load packages -----------------------------------------------------------
 
-library(ggplot3)
+library(ggplot2)
 library(tidyverse)
 library(forcats)
 library(gtsummary)
